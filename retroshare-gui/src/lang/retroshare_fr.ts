@@ -16518,7 +16518,7 @@ Sélectionnez les amis avec lesquels vous voulez partager votre chaîne.</transl
     <message>
         <location line="+0"/>
         <source>Go Online</source>
-        <translation>Passer en ligne</translation>
+        <translation>Passé en ligne</translation>
     </message>
     <message>
         <location line="+1"/>
